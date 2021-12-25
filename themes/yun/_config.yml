@@ -48,17 +48,17 @@ social:
     link: /atom.xml # config.feed.path
     icon: icon-rss-line
     color: orange
-  - name: QQ 群 1050458482
+  - name: QQ
     # https://isux.tencent.com/wp-content/uploads/2016/05/20160512101222609.pdf
-    link: https://qm.qq.com/cgi-bin/qm/qr?k=kZJzggTTCf4SpvEQ8lXWoi5ZjhAx0ILZ&jump_from=webapi
+    link: #
     icon: icon-qq-line
     color: "#12B7F5"
   - name: GitHub
-    link: https://github.com/YunYouJun
+    link: #
     icon: icon-github-line
     color: "#6e5494"
   - name: 微博
-    link: https://weibo.com/jizhideyunyoujun
+    link: #
     icon: icon-weibo-line
     color: "#E6162D"
   - name: 豆瓣
@@ -102,10 +102,10 @@ social:
     link: mailto:# 
     icon: icon-mail-line
     color: "#8E71C1"
-  - name: Travelling
-    link: https://travellings.link
-    icon: icon-train-line
-    color: black
+ # - name: Travelling
+ #   link: https://travellings.link
+ #   icon: icon-train-line
+ #   color: black
 
 codeblock:
   copy_btn: true
@@ -377,15 +377,15 @@ reward:
   # url: https://github.com/YunYouJun/yunyoujun.github.io/issues/96
   methods:
     - name: 支付宝
-      path: https://cdn.jsdelivr.net/gh/YunYouJun/cdn/img/donate/alipay-qrcode.jpg
+      path: #
       color: "#00A3EE"
       icon: icon-alipay-line
     - name: QQ 支付
-      path: https://cdn.jsdelivr.net/gh/YunYouJun/cdn/img/donate/qqpay-qrcode.png
+      path: #
       color: "#12B7F5"
       icon: icon-qq-line
     - name: 微信支付
-      path: https://cdn.jsdelivr.net/gh/YunYouJun/cdn/img/donate/wechatpay-qrcode.jpg
+      path: #
       color: "#2DC100"
       icon: icon-wechat-pay-line
     # - name: paypal
